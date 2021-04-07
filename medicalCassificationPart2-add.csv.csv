@@ -1,0 +1,205 @@
+old;sex;vital signal;skin;EMS;main complaints;awareness;type of injury;place of injury/ place pain/place main coplaint/ bleeding;intubation;when;exercise when symptom occurs;pain;bleeding;suicide attempt;alcohol consumption;additional information;breath;CPR;medical history;pregnat;dehydration;defibrillated;fever;appetite;class
+17;male;;;no;;unresponsive;;;no;;;;;drug overdose;yes;;;;;;;;;;1
+7;male;;pale;no;;somnolent;;;no;;;;;;no;car accident;non-labored respirations;;;;;;;;1
+18;female;RR 10, SpO2 86;;no;;lethargic,not acting right;;;no;;;;;drug overdose;no;;;;;;;;;;1
+19;male;;;Yes;;unresponsive, GCS 3;single self-inflicted gunshot;head;Yes;;;;;;no;;;;;;;;;;1
+4;;HR 126, RR 28, BP 80/64, SpO2 96%;;no;;unresponsive;;;no;;;;;;no;accident in water;spontaneously;yes;;;;;;;1
+16;male;BP 74/50, HR 132, RR 36, SPO2 99%, T 98.6 F;;Yes;;moaning, moving all extremities, moaning;;;no;;;;;;no;car accident;;;;;;;;;1
+26;female;T 98 F, RR 40, HR 114, BP 108/74;;no;sore, cough, hoarse;unrestrained;burn;throat;no;;;;;;no;;working hard;;asthma;;;;;;1
+16;male;;;Yes;;unresponsive;hit a tree;head;Yes;;;;;;no;;;;;;;;;;1
+21;female;HR 178 , RR 32, BP 82/60; cool, diaphoretic;no;rapid heart rate, funny pressure feeling;;;chest;no;;;;;;no;;barely catch;;;;;;;;1
+26;female;;;Yes;sudden onset of a severe headache ;moaning, does not respond to voice;;head;no;;yes;;;;no;;;;healthy;28 w;vomiting;;;;1
+34;female;BP 86/40, HR 132, RR 22, SpO2 98%;;no;passing clots;;;;no;;;;yes;;no;;;;;was 10 d;;;;;1
+58;male;;;Yes;;;;;no;;;;;;no;;no;;;;;1;;;1
+52;male;BP 86/50, HR 52 ;cool, clammy;no;pressure, irregular HR;;;chest;no;60 min;yes;10;;;no;;short of breath;;;;vomitig;;;;1
+17;;HR 130, BP 78/palp;;Yes;;alert, oriented ;single gunshot ;left chest;no;;;;;;no;;;;;;;;;;1
+76;male;HR 122, BP 88/68, RR 24, SPO2 94%;cool, diaphoretic;no;severe  pain;;;abdominal;no;30 min;;20;;;no;;;;HTN, diuretic;;;;;;1
+72;female;SpO2 79 ;;no;obvious chronic obstructive pulmonary disease,;;;;no;;;;;;no;;hard time breathing , increased work of breathing ;;;;;;yes;;1
+76;male;BP 70/palp, HR 128, RR 40;;Yes;;pass out;;;no;;;;maroon-colored stool;;no;;;;atrial fibrillation, pill to thin his blood;;;;;;1
+14 d;;;mottled;no;;listless;;;no;;;;;;no;;;;;;;;;no;1
+28;male;HR 110, RR 36, SpO2 89%;;yes;large hematoma around the wound;moaning;stabbed;left side of his neck;no;;;;yes;;no;;can’t breathe;;;;;;;;1
+62;male;HR 106, RR 28, BP 72/53, SpO2 is 95%;cool , clammy;Yes;pressure, EKG - anterior lateral ischemic changes;;;chest ;no;60 min;;;;;no;;;;infarction;;;;;;1
+74;male;HR  140, RR 28, SpO2 94%, BP 72/56.;;no;severe pain;;;mid-abdominal;no;;;;;;no;;;;medication for blood pressure;;;;;;1
+16;male;;;no;;;hit;anterior chest ;Yes;;;;;;no;;;yes;;;;3;;;1
+22;female;RR 48, SpO2 94%, ;diaphoretic;Yes;;sititng, unable to answer;;;no;;;;;;no;;wheezing earlier, working hard;;asthma, intubations;;;;;;1
+60;male;HR 140, BP 80/palp, ;pale, diaphoretic;no;pain, dark stools;;;abdominal;no;1 month;;;yes;;no;;;;;;;;;;1
+25;female;BP 92/pal, HR 130;;Yes;pain;;;vaginal, abdominal;no;;;;yes;;no;;;;;7 m;;;;;1
+3 m;;RR 60, HR 196, Sp02 90%  T  39 C;purpuric lesions, petechial;no;;;;;no;;;;;;no;;;;;;;;;;1
+<18;;;;no;;unresponsive to painful stimuli;;;no;;;;;;no;;;;;;;;;;1
+;;;;no;;unequal pupils;;head;yes;;;;yes;;no;;;;;;;;;;1
+;;;;no;;Unresponsive;;;no;;;;;;yes;;;;;;;;;;1
+baby;;;;no;flaccid;;;;no;;;;;;no;;;;;;;;;;1
+;;;;no;Anaphylactic shock;;;;no;;;;;;no;;;;;;;;;;1
+;;HR 30;;no;dizzy ;weak;;;no;;;;;;no;;;;;;;;;;1
+;;BP 70/pal ;blood, diaphoretic;no;pain;;;chest;no;;;;;;no;;;;;;;;;;1
+;;RR 6;;no;;;;;no;;;;;drug overdose;no;;;;;;;;;;1
+;;SpO2 < 90;;no;;;;;no;;;;;;no;;;;;;;;;;1
+;;;;no;;;;;no;;;;;;no;;Respiratory arrest;;;;;;;;1
+14;;;;yes;;unresponsive ;;;no;;;;;;yes;;;;;;;;;;1
+88;female;stable;;no;severe pain;;;right lower quadrant abdominal;no;;;;;;no;;;;;;;;;;2
+45;female;;;no;tachycardic;;;;no;;;;yes;;no;;;;;;vomiting;;;;2
+35;female;HR 160, BP 120/70;;no;sudden onset of palpitations;anxious;;;no;;;;;;no;;;;;;;;;;2
+65;female;;;no;discomfort;;;chest;no;3 h;;;;;no;;sudden onset of shortness of breath ;;;;;;;;2
+52;male;;cold ;no;pain;;;left foot;no;;;;;;no;;;;diabetes, insulin ;;;;;;2
+65;female;;;no;loss of vision;;;;no;;;;;;no;;;;;;;;;;2
+22;male;;;no;;;hit;eye;no;;;;;;no;;;;;;;;;;2
+40;female;;;no;;;;;no;2 d;;;;;no;;;;diabetic;;vomiting;;;;2
+69;male;;;no;dizzy;weak;;;no;;;;;;no;;;;regular kidney dialysis;;;;;;2
+29;female;BP 210/120;;no;pain;;;head;no;;;;;;no;;;;HTN;;;;;;2
+22;male;;;no;pain;;;left testicle;no;;;;;;no;;;;;;;;;;2
+24;female;;;no;pain;;;lower quadrant abdominal ;no;;;;spotting;;no;;;;;8 w;;;;;2
+24;female;;;no;pain;;;left lower quadrant abdominal;no;;;;;;no;;;;;;;;;;2
+35;female;;;no;;slurred speech, oriented, unsteady gait;large laceration;head;no;;;;;;yes;;;;;;;;;;2
+35;female;T 102;rash;no;pain, stiff ;;;head, neck;no;;;;;;no;;;;;;;;;;2
+55;male;;;no;pain;;;head;no;;yes;;;;no;;;;;;;;;;2
+52;male;;;no;;sudden slurred speech;;;no;;;;;;no;;;;;;;;;;2
+40;female;T 102.2;;no;;;;;no;;;;;;no;;;;lymphoma, chemotherapy;;;;;;2
+66;male;;;no;;;;;no;;;;;;no;;shortness of breath;;lung cancer, completed chemotherapy 2 weeks ago;;;;;;2
+9 m;;;very dry mucous membranes;no;;powerless;;;no;;;;;;no;;;;;;vomiting, diarrhea, no pee;;;no;2
+6;male;SpO2 97 %;;no;;;;;no;;;;;;no;;wheezing, moderate respiratory distress;;;;;;;;2
+14 d;;T 100.8 F;;no;;;;;no;;;;;;no;;;;;;;;;;2
+5;female;;;no;drooling, difficulty swallowing;;;;no;;;;;;no;;;;;;;;;;2
+20;male;;;no;;;;;no;;;;;;no;;shortness of breath after coughing;;;;;;;;2
+45;male;;;no;pain;Unable to remember the events;;head;no;;;;;;no;car accident;;;;;;;;;2
+17;male;;;no;;;stab wound ;groin;no;;;;yes;;no;;;;;;;;;;2
+34;female;;;no;;;;;no;;;;;;no;car accident;;;;32 w;;;;;2
+6;male;;;no;;1 min loss of consciousness;fall from 8 feet;;no;;;;;;no;;;;;;vomiting;;;;2
+14;female;BP 118/72, HR 76, RR 14;;Yes;;awake, alert, and moving all extremities;;;no;;;;;;no;accident in water;;;;;;;;;2
+16;male;;;no;;;;;no;;;;;;no;;;;;;;;;;2
+32;female;RR 32, HR 96, BP 126/80, SpO2 93%, T 98,6 F;;no;;;;;no;;;;;;no;;shortness;;;;;;;;2
+4;female;HR 162, RR 38;;no;;unconscious for a couple of minutes, crying, asking ;fall from 4 feet, hit,;head, left arm;no;;;;;;no;;;;;;;;;;2
+14 d;;T 101 F, HR 154, RR 42, SpO2 100%;;no;;acting appropriately;;;no;;;;;;no;;;;;;;;;;2
+87;male;normal limits;;yes;;awake, alert, oriented, remembers the fall;hit;head;no;;;;;;no;;;;atrial fibrillations, multiple medications, warfarin;;;;;;2
+17;;BP 102/60, HR 86, RR 28, SpO2 96%;;yes;pain;;multiple lacerations on left arm;abdominal;no;;;;;;no;car accident;;;;;;;;;2
+54;male;normal limits;;no;;weak;;;no;;;;;;no;;;;chronic renal failure, did not go to dialysis;;;;;;2
+19;;T 98 F, HR 102, RR 36, BP 128/76, SpO2 92%;;no;coughing;;;;no;;;0;;;no;;short of breath;;;;;;;;2
+40;female;normal limits;;no;suspected stroke, can't move;;;left eye;no;;;;;;no;;;;;;;;;;2
+88;;;;yes; slurred speech;alert, oriented, equal hand grasps,  weaknes;;left arm;no;;;;;;no;;;;stroke, aspirin;;;;;;2
+;;;;no;swollen and pain, circulation decreased, sensation decreased, movement decreased;;;hand;no;;;;;;no;;;;ractured wrist;;;;;;2
+23;female;;;no;exhausted, swollen;;;ankles ;no;;;;;;no;;;;;was 5 w ;;;;;2
+;;BP 110/74, HR 72, RR 16;;no;pain;; laceration, abrasion;right thigh, left hand, left knee;no;;;;;;no;car accident;;;;;;;;;2
+;;T 98.5 F, RR 20, HR 90, BP 120/80;;no;defibrillator gave me a shock, changed medications;;;;no;;;;;;no;;;;cardiac , multiple medications, amiodarone;;;;;;2
+42;female;T 98.6 F, RR 34, SpO2 95%, HR 92, BP 114/80;;no;fluid buildup;;;lungs;no;;;;;;no;;;;metastatic breast cancer, multiple medications;;;;;;2
+16;male;;;no;tingling, abrasion ;;hit on face;hands, forehead and nose;no;;;;;;no;accident in water;;;;;;;;;2
+19;female;T 101.6 F, RR24, HR 92, BP 122/80, SpO2 100%;;no;pain, barely swallow, voice is different, big swelling on one side of my throat;;;throat ;no;couple of days ago;;;;;no;;;;;;;;;;2
+>18;male;T 98.2 F, HR 78, RR 16, BP 118/80;;no;;alert, responding appropriately to questions;shot;left leg;no;;;;;;no;;;;;;;;;;2
+82;female;T 98F, RR 28, HR 102, BP 146/80, SpO2 98%;;no;pain;moaning;;abdominal;no;few hours ago;;;;;no;;;;heart attack ;;vomiting;;;;2
+75;male;BP 136/82, HR 74, RR 18, SpO2, 98% RA;;yes;;; 6-centimeter laceration;neck;no;;;;yes;selfinflicted;no;;;;;;;;;;2
+72;female;T 100.8 F, HR 98, RR 22, BP 122/80;;no;sleeping more,  hurts to pee;responds to verbal stimuli,  disoriented to time and place;;;no;;;;;;no;;;;;;;;;;2
+73;male;;;Yes;;oriented to person and place and time, 14 GCS;4-centimeter  laceration;forehead;no;;;;yes;;yes;;;;;;;;;;2
+42;male;;;no;flaccid, bruising, pani;;;penis;no;;yes;20;;;no;;;;;;;;;;2
+20;male;normal limits;;no;dislocation, pain;;;left shoulder;no;;yes;10;;;no;;;;;;;;;;2
+28;male;BP 136/84, HR 108, RR 20, SpO2 97%, T 97 F;;no;strong allergic reaction;;;;no;;;;;;no;;;;severe shellfish allergy, EpiPen;;;;;;2
+44;female;BP 148/70, P 126, RR 24;;no;;;;;no;;;;;;no;;;;diabetic ;;vomiting;;;no;2
+47;female;normal limits;;no;pain, pain medications not working;;;;no;;;;;;no;;;;metastatic ovarian cancer.;;;;;;2
+<18;;;rash o face and chest, little pinpoint purplish ;no;cold, cough;;;;no;today ;;;;;no;;;;;;;;;;2
+46;;RR 44, SpO2 93%, HR 98, BP 154/60;;Yes;;able to answer your questions;;;no;;;;;;no;;respiratory distress, wheezing;;asthmatic;;;;;;2
+56;male;BP 146/92, HR 122, RR 38, SpO2 98%;;no;swelling;;;facial, bilateral arm;no;;;;;;no;;increasing shortness;;late-stage non-Hodgkin’s lymphoma;;;;;;2
+8;male;T 98.6°F, RR 30, HR 98, BP 92/78, SpO2 98%;;no;losing weight;alert, oriented, answers your questions appropriately;;;no;;;;;;no;;;;;;;;;no;2
+72;female;T 99.6 F, HR 86, RR 28, BP 136/72, SpO2 94%;;no;;confused;;;no;;;;;;no;;;;;;;;;;2
+14;male;BP 112/80, HR 86, RR 14, SpO2 98%;;no;pain, broken;currently aware, alert, oriented ;hit;left upper quadrant abdominal,  left  thigh;no;;;;;;no;;;;;;;;;;2
+18;female;;;no;sexually assaulted;;;;no;last night;;;;;no;;;;;;;;;;2
+56;male;;;no;I couldn’t see about 5 minutes;;;right eye;no;;;;;;no;;;;HTN, high cholesterol;;;;;;2
+16;female;normal limits;;no;;;;;no;;;;;drug overdose;no;pain medication not working;;;;;;;;;2
+46;female;;;no;pain ;;;lower legs;no;8 h;;;;;no;;;;sickle cell disease;;;;;;2
+52;female;;;no;;awake, alert, oriented;;;no;;;;;drug overdose;no;;;;;;;;;;2
+48;male;BP 172/124, HR 122, RR 18, T 98.6°F, SpO2 97%;;no;alcohol delirium;;;;no;;;0;;;no;;;;;;;;;;2
+60;male;T 99.4 F, RR 18, HR 82, BP 146/70, SpO2 99%;red, warm, swollen, tender;no;hurts;;;right foot;no;;;;;;no;;;;type 2 diabetes, psoriasis;;;;;;3
+14;male;118/78,HR 88, RR 18, T 98.2 F;warm, dry;Yes;obvious deformity and pain;;;right lower leg;no;;;6;;;no;;;;;;;;;;3
+15;female;BP 126/85, HR 100, RR 16, T 98.7 F;;no;;;;;no;;;;;;no;;;;;suspicion;;;;;3
+22;male;;;no;pain;;;right lower quadrant abdominal ;no;early this morning;;;;;no;;;;;;nausea;;;no;3
+45;female;;;no;pain and swelling;;;left lower leg;no;2 d;;;;;no;driving in a car for 12 hours ;;;;;;;;;3
+41;male;;;no;;;hit;right arm;no;;;;;;no;;;;;;vomiting;;;no;3
+7;male;T 100.4 F, RR 22, HR 88, BP 84/60, SpO2100%;;no;ache;;;stomach ;no;;;6;;;no;;;;;;;;;;3
+34;female;T 102.8 F, HR 90, RR 18, BP 108/60;;no;sore;;;right breast;no;;;5;;;no;;;;allergic to penicillin;was 3 m;;;;;3
+45;female;T 101.6 F, HR 92, RR 24, BP 148/86, SpO2 97%;;no;cold, cough, fever;;;;no;7 d;;;;;no;;wheezing;;asthma;;;;103 F;;3
+37;female;T 98 F, RR 20, HR 102, BP 118/62, SpO2 98%;;no;migraine ;;;;no;this morning;;6;;;no;;;;migraines;;vomiting;;;;3
+33;female;T 96.8 F, HR 96, RR 16, BP 116/74;;no;food poisoning, abdominal cramping;;;;no;;;5;;;no;;;;;;vomiting, diarrhea;;;;3
+27;female;T 97 F, RR 18, HR 104, BP 104/68, SpO2 99%;dry and cracked;no;;;;Lips ;no;;;;;;no;;;;;7 w;vomiting;;;;3
+52;female;BP 148/90, HR 86, RR 16, T 98 F;;no;pain;;;left leg;no;;;;;;no;has been sitting in a car for the last 2 days;;;;;;;;;3
+32;female;normal limits;warm;yes;;;fell 5 m, open fracture ;right lower leg, toes ;on;;;;;;no;;;;;;;;;;3
+>18;female;T 97.8 F, RR 20, HR 90, BP 110/70, SpO2 99%;;no;pain;;;abdominal;no;;;4;;;no;;;;6 weeks post laparoscopic gastric bypass;;nausea, vomiting;;;no;3
+40;male;normal limits.;;no;;;cut off;left hand;no;;;6;yes;;no;;;;;;;;;;3
+27;female;T.98 F, HR 66, RR 14, BP 106/68;;no;pain ;;;low abdominal;no;4 d;;6;;;no;;;;previous ectopic pregnancy;suspicion;;;;;3
+47;female;T 98 F, RR 24, HR 78, BP 158/82, SpO2 98%;;no;swollen, hurts;;;right leg, calf;no;;;6;;;no;morbidly obese;;;type 2 diabetes, HTN;;;;;;3
+68;female;normal limits;;no;obvious deformity, good circulation, sensation, movement;;slipped on the ice;right arm;no;;;6;;;no;;;;arthritis, medications, ibuprofen;;;;;;3
+26;female;BP 110/80, HR 72, RR 18, SpO2 99%, T 98.6 F;;no;pain, crampy;;;stomach;no;;;1;spotting;;no;;;;;yes;;;;;3
+21 d;;normal limits;;no;;;;;no;;;;;;no;;;;;;vomiting;;;;3
+33;female;BP 126/70, HR 76, RR 14, T 98 F;;no;pain;;;belly;no;;;6;;;no;;;;gastric bypass 3 weeks ago;;vomiting;;;;3
+42;male;T 97.2 F, RR 16, HR 90, BP 130/82, SpO2 99%;;yes;dizziness;;;;no;;;;;;no;I feel okay when I lie perfectly still;;;;;nausea, vomiting;;;;3
+58;male;T 100 F, RR 18, HR 80, BP 140/72, SpO2 98%;;no;pain;;;left lower-quadrant abdominal ;no;3 days ;;5;;;no;;;;HTN;;;;;;3
+25;female;T 100.8 F, RR 20, HR 92, BP 118/80, SpO2 99%;;no;pain, chills;;;lower abdominal;no;;;5;vaginal bleeding;;no;;;;therapeutic abortion;;;;yes;;3
+76;female;HR 72, RR 16, BP 102/60;red, tender, swollen;no;;;open area ;hand;no;;;;;;no;;;;arthritis, chronic renal failure, diabetes;;;;;;3
+34;female;T 102.2 F, RR 20, HR 990, BP 122/80, SpO2 98%;;no;pain and tenderness, new reddened area, chills, feeling run down;;;right breast;no;;;6;;;no;;;;antibiotics for 5 days for mastitis;;;;yes;;3
+27;female;;;no;migraine;;;;no;2 d;;10;;;no;;;;migraine, medications include Fioricet;;vomiting;;;;3
+19;female;T 100 F, HR 74, RR 18, BP 102/70, SpO2 100%;red, tender, swollen, pus is oozing from around the site;no;hurts;;pierce;belly button;no;;;8;;;no;;;;;;;;;;3
+19 m;male;normal limits;;no;;;fell and cut, 2- centimeter laceration;lip;no;;;;yes;;no;;;;;;;;;;3
+34;male;T 98 F, RR 22, HR 112, BP 120/80, SpO2 100%;lips are dry and cracked;no;cramping;;;abdominal;no;;;;;;no;;;;;;frequent watery stools;;;;3
+9;male;T 98 F, RR 26, HR 90, SpO2 99%;;no;obviously deformed;;fell 5 feet;arm;no;;;5;;;no;;;;;;;;;;3
+48;male;T 98 F, RR 16, HR 80, BP 136/74, SpO2 100%;;no;pain;;;right costovertebral angle;no;;;3;;;no;;;;kidney stones;;nauseous;;;;3
+19 w;;T 99 F, RR 30, HR 130, SpO2 100%;dry and cracked;no;;awake , alert, quiet;;lips ;no;;;5;;;no;;;;;;diarrhea,  vomiting;;;no;3
+87;male;normal limits;;yes;injured, right leg is shortened and externally rotated;;right hip;;no;;;;;;no;;;;;;;;;;3
+64;male;T 99 F, RR 20, HR 74, BP 164/74, SpO2 97%;red, swollen and tender to touch;no;;;;knee;no;;;6;;;no;;;;knee replacement 3 months ago;;;;;;3
+29;male;normal limits;;no;thing stuck;;;rectum;no;12 h;;4;;;no;;;;;;;;;;3
+67;female;T 102 F, RR 28, HR 86, BP 140/72, SpO2 94%;;yes;cough, coughing up thick green phlegm, pneumonia;;;;no;3 days ;;;;;no;;;;HTN;;;;yes;;3
+19;male;T 97.4 F, RR 18, HR 62, BP 122/70, SpO2 100%;;no;pain ;;2-centimeter laceration;arm, left clavicle;no;;;6;;;no;car accident;;;;;;;;;3
+43;female;T 101.4 F, RR 26, HR 90, BP 138/70, SpO2 95%;;no;;;;;no;few days;;;;;no;inhaler doesn’t seem to be helping;wheezing;;asthma;;;;yes;;3
+26;female;T 97 F, RR 18, HR 68, BP 112/76, SpO2 100%;;no;colitis is acting up, cramping;;;abdominal;no;;;6;;;no;;;;;;frequent stools;;;;3
+54;male;normal limits;;no;pain and swelling;;;lower leg;no;;;;;;no;;;;clots in my legs;;;;;;3
+65;female;normal limits;;Yes;replacement of her PEG tube;;;;no;;;;;;no;;;;massive stroke 3 years ago, aphasic;;;;;;3
+51;female;BP 121/71, HR 118, RR 18, T 101.8 F, SpO2 98%;;no;redness and swelling ;;scratched by cat;right hand;no;;;5;;;no;;;;gastroesophageal reflux disease;;;;;;3
+10;male;BP 107/66, HR 75, RR 20, T 98.6 F, SpO2 99%;;no;pain;;;abdominal;no;;;;;;no;;;;;;nausea;;;no;3
+5;;RR 20, HR 100, SpO2 99%, T 37 C;rash, swelling and moist lesions, pain;no;;;;neck and face, around the eyes and cheeks;no;;;;;;no;;;;poison ivy;;;;;no;3
+12;female;BP 110/70, HR 72, RR 14, T 98.0 F;;no;;;2 cm superficial laceration;right thumb;no;;;;;;no;;;;;;;;;;4
+10;female;98/72, HR 82, RR 22, T 98.2 F;;no;;sudden outbursts;;;no;;;;;;no;;;;;;;;;;4
+19;male;;;no;sore ;;;throat;no;;;;;;no;;;;;;;;yes;;4
+29;female;;;no;infection;;;urinary tract ;no;;;;;;no;;;;;;;;;;4
+6;male;;;no;3-centimeter laceration;;;right knee;no;;;5;;;no;;;;;;;;;;4
+58;female;normal limits;;no;hurt, no obvious deformity;;;wrist;no;;;;;;no;;;;migraines;;;;;;4
+52;female;T 97.4 F, HR 78, RR 14, BP 142/70;;no;infection ;;;urinary tract;no;;;;;;no;;;;;;;;;;4
+28;male;normal limits;;no;;;;left first finger, 2-centimeter laceration;no;;;;yes;;no;;;;last tetanus immunization was 10 years ago;;;;;;4
+36;male;normal limits;;no;sawdust;;;left eye;no;;;;;;no;;;;;;;;;;4
+25;male;T 98.2 F, HR 66, RR 14, BP 114/60.;;no;hurts when I urinate;;;urinary tract;no;;;;;;no;;;;;;;;;;4
+42;male;;;no;reddened and tearing;;;right eye;no;;;4;;;no;;;;;;;;;;4
+39;female;T 98 F, RR 22, HR 88, BP 130/80, SpO2 99%;;no;cold ;;;;no;;;;;;no;;wheezing;;asthma;;;;;;4
+19;female;T 100.6°F, HR 88, RR 18, BP 112/76;;no;sore throat;;;;no;;;;;;no;;;;;;;;yes;;4
+34;female;;;no;redness and swelling;;;right eye, periorbital area;no;;;;;;no;;;;;;;;;;4
+26;female;;;no;needs to go into detox again;;;;no;;;;;;no;;;;;;;;;;4
+37;male;BP 142/76, RR 16, T 98.6 F;;no;need a tetanus shot;;3-centimeter laceration;right thumb;no;;;;;;no;;;;;;;;;;4
+57;female;normal limits;;Yes;Foley catheter came out;;;;no;;;;;;no;;;;multiple sclerosis;;;;;;4
+26;female;T 98.8 F, RR 14, HR 62, BP 108/70;;no;small paronychia;;;right second finger;no;;;;;;no;;;;;;;;;;4
+63;male;;;no;feeding tube fell out;;;;no;;;;;;no;;;;suffered a massive stroke;;;;;;4
+3;male;normal limits;;no;refusing to move;;; left arm;no;;;;;;no;;;;;;;;;;4
+48;female;normal limits;;no;rabies;;;;no;;;;;;no;;;;;;;;;;4
+55;male;normal limits;;no;bug inside;;;right ear;no;;;;;;no;;;;;;;;;;4
+43;female;T 98 F, HR 72, RR 18, BP 134/80, SpO2 100%;;no;twisted ;;; ankle;no;;;8;;;no;;;;colitis;;;;;;4
+15;male;T 97 F, RR 16, HR 58, BP 106/80, SpO2 100%;tender to touch;no;swollen;;;hand ;no;;;5;;;no;;;;;;;;;;4
+8;male;stable;red sandpaper rash across chest;no;sore, suspicion positive streptococci;;;throat;no;;;;;;no;;;;;;;;38.7 C;;4
+13;male;BP 108/72, HR 78, RR 14, T 98.6 F;;no;ran out of ADHD medication;cooperative, pleasant;;;no;;;;;;no;;;;;;;;;;5
+10;;;;no;poison ivy;;;;no;;;;;;no;;;;;;;;;;5
+52;male;BP 150/92;;no;ran out of blood pressure medication;;;;no;;;;;;no;;;;;;;;;;5
+27;female;normal limits;;no;red and tearing;;;right eye;no;;;6;;;no;;;;;;;;;;5
+56;male;BP 128/84, HR 76, RR 16, T 97 F;;no;ran out of my blood pressure medicine;;;;no;;;;;;no;;;;HTN;;;;;;5
+38;male;normal limits;;no;toothache;;;right lower jaw;no;;;9;;;no;;;;;;;;;;5
+20;male;T 98 F, HR 58, RR 16, BP 112/70;rash;no;;;;groin area;no;;;;;;no;;;;;;;;;;5
+27;male;normal limits;;no;prescription for pain medication;;;;no;;;10;;;no;;;;;;;;;;5
+10;male;T 97 F, HR 88, RR 18, BP 100/68;;no;painful and itchy ;;;ears;no;;;;;;no;;;;;;;;;;5
+18;female;T 97 F, HR 78, RR 16, BP 118/80;;no;pill prevent pregnancy;;;;no;;;;;;no;;;;;suspicion;;;;;5
+76;male;normal limits;;no;hard;;;toenails;no;;;;;;no;;;;chronic obstructive pulmonary disease , uses several metered-dose inhalers;;;;;;5
+2;;;;no;infection;;;ear ;no;;;;;;no;;;;frequent ear infections;;;;;;5
+18;female;normal limits;;no;pill prevent pregnancy;;;;no;;;;;;no;;;;;suspicion;;;;;5
+38;male;T 99.8 F, HR 78, RR 16, BP 128/74;;no;hard, pill for pain ;;;tooth;no;;;;;;no;;;;;;;;;;5
+4;;normal limits;;no;pain;;;right ear;no;;;10;;;no;;;;;;;;;;5
+29;female;;;no;need tetanus shot, stepped on a rusty nail;;;;no;;;;;;no;;;;;;;;;;5
+18 m;;;;no;;active, looks well;;;no;;;;;;no;;;;;;vomiting;;;yes;5
+11;;normal limits;;no;cough, runny nose;running, asking;;;no;7 d;;;;;no;;;;;;;;;yes;5
+3 m;;T 98 F, RR 40, HR 132, SpO2 99%;;no;runny nose;alert, looking around;;;no;;;;;;no;;;;;;;;;no;5
+29;female;normal limits;;no;red and crusty;;;eyes;no;;;;;;no;;;;;;;;;;5
+19;male;normal limits;rash;no;;;;crotch;no;;;;;;no;;;;;;;;;;5
+54;male;T 98 F, RR 16, HR 64, BP 142/78, SpO2 98%;;no;control visit;;;;no;;;2;;;no;;;;diabetic;;;;;;5
+>18;;normal limits;;no;stepped on a rusty nail, need tetanus shot;;;;no;;;;;;no;;;;;;;;;;5
+58;male;BP 154/88, HR 64, RR 18, T 98 F, SpO2 99%;;no;ran out of my blood pressure medicine;;;;no;;;;;;no;;;;;;;;;;5
+42;female;normal limits;;no;ragged, need tetanus booster;;;knees;no;;;;;;no;;;;;;;;;;5
+14;;stable;rash;no;poison ivy;;;feet;no;;;;;;no;;;;;;;;;;5
+22;;;;no;needs a work note;;;;no;;;;;;no;;;;;;;;;;5
+12;;;;no;pain;;;ear;no;;;;;;no;;;;;;;;;;5
